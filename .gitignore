@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Class repo
+UCF-VIRT-DATA-PT-08-2021-U-B
+
 # C extensions
 *.so
 
